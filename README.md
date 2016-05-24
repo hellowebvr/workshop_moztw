@@ -15,9 +15,9 @@ You will learn:
 * Describe Entity-Component architecture in A-Frame
 * How to use markup to make your own WebVR application?
 
-Slide Link
+Slide Link (TBD)
 
-## Howto Decorate your own partial Panorama & full Panorama with 3D elements
+## Howto create VR content & share with WebVR?
 
 Speaker: [gasolin](https://github.com/gasolin/)
 
@@ -31,7 +31,7 @@ You will learn:
 
 Instructions (TBD)
 
-## Build a WebVR web site
+## Howto build a WebVR web site
 
 Speaker: [yifan](https://github.com/beegeeben/)
 
@@ -46,7 +46,7 @@ Slide Link (TBD)
 
 Instructions (TBD)
 
-## Build a WebVR game
+## Howto build a WebVR game
 
 Speaker: [Dausheng Mu](https://github.com/daoshengmu/)
 
