@@ -1,10 +1,9 @@
 5/28 Workshop at Mozilla Community Space Taipei
 
-Event Registration Page [http://moztw.kktix.cc/events/91d7bca0](http://moztw.kktix.cc/events/91d7bca0)
-
 | Title |好孩子的第一次挑戰 WebVR 就快快樂樂上手課程                                 |
 | ----- | --------------------------------------------------------------------------- |
 | Place |摩茲工寮 (Mozilla Community Space Taipei) / 台北市中正區八德路一段 94 號 3F |
+| Registration Page | [http://moztw.kktix.cc/events/91d7bca0](http://moztw.kktix.cc/events/91d7bca0) |
 
 ## Introduction to A-Frame
 
