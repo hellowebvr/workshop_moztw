@@ -29,7 +29,7 @@ You will learn:
 
 [Slide Link](https://docs.google.com/presentation/d/1qbHbSgkAA0byhkWtJh9-KxyLkvYDLzVdTD2UTFn4hww/edit?usp=sharing)
 
-Instructions (TBD)
+[Instructions](https://github.com/gasolin/webvrdemo/wiki)
 
 ## Howto build a WebVR web site
 
