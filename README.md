@@ -42,9 +42,7 @@ You will learn:
 * Map DOM to 3D planes
 * Construct a content surrounding scene
 
-Slide Link (TBD)
-
-Instructions (TBD)
+[Slide Link] (https://docs.google.com/presentation/d/1ouCLsyADAsKCAqgwMb78T9-WpPx7Jzy185AMCGvuaG8/edit?usp=sharing)
 
 ## Howto build a WebVR game
 
