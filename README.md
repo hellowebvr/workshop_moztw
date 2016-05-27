@@ -27,7 +27,7 @@ You will learn:
 * How to take 360 camera image via iPhone or Android
 * How to show those VR images in webVR environment with A-Frame.
 
-[Slide Link](https://docs.google.com/presentation/d/1qbHbSgkAA0byhkWtJh9-KxyLkvYDLzVdTD2UTFn4hww/edit?usp=sharing)
+[Slide Link](http://www.slideshare.net/gasolin/how-to-create-360-imagepanorama-share-with-webvr)
 
 [Instructions](https://github.com/gasolin/webvrdemo/wiki)
 
