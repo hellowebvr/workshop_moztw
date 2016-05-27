@@ -15,7 +15,7 @@ You will learn:
 * Describe Entity-Component architecture in A-Frame
 * How to use markup to make your own WebVR application?
 
-Slide Link (TBD)
+[Slide Link] (http://www.slideshare.net/ellisonmu/a-frame-beginner-lesson)
 
 ## Howto create VR content & share with WebVR?
 
@@ -48,7 +48,7 @@ Instructions (TBD)
 
 ## Howto build a WebVR game
 
-Speaker: [Dausheng Mu](https://github.com/daoshengmu/)
+Speaker: [Daosheng Mu](https://github.com/daoshengmu/)
 
 You will learn:
 
@@ -58,6 +58,6 @@ You will learn:
 * Audio
 * Collision detection
 
-Slide Link (TBD)
+[Slide Link] (http://www.slideshare.net/ellisonmu/maze-vr)
 
-Instructions (TBD)
+[Instructions] (https://github.com/daoshengmu/aframe-lesson)
