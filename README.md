@@ -33,7 +33,7 @@ You will learn:
 
 ## Howto build a WebVR web site
 
-Speaker: [yifan](https://github.com/beegeeben/)
+Speaker: [yifan](https://github.com/begeeben/)
 
 You will learn:
 
